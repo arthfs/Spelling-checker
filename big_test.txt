@@ -1,0 +1,46 @@
+Hello world! This is a test file with various words and symbols.
+
+Some correct words: apple, banana, computer, science.
+Some misspelled words: aplle, bannana, compter, sceince.
+
+Here are words with numbers: hello123, test456, word789.
+Words with symbols: email@domain.com, user_name, variable-name.
+Mixed content: price$100, code#123, section&title.
+
+Multiple    spaces    between    words.
+Tabs	between	words	too.
+
+Parentheses: (embedded) words, [bracketed] text, {curly} braces.
+Quotes: "quoted text", 'single quotes', `backticks`.
+
+Punctuation at ends: word! word? word. word, word; word:
+Special characters: café, naïve, fiancé, résumé.
+
+UPPERCASE WORDS: DICTIONARY, ALGORITHM, PROGRAMMING.
+lowercase words: memory, processor, terminal.
+MixedCase: HelloWorld, TestCase, MainFunction.
+
+Longer paragraph: This is a longer paragraph that contains multiple sentences. 
+It should test how the spell checker handles continuous text with various 
+punctuation marks and line breaks. The quick brown fox jumps over the lazy dog.
+
+Edge cases: 
+- Words-with-hyphens
+- Multiple.....dots
+- Weird___underscores
+- CAPS_WITH_UNDERSCORES
+- camelCaseVariables
+- PascalCaseClasses
+- snake_case_functions
+- kebab-case-files
+
+Numbers: 12345, 67.89, 100%, 1/2, 3rd, 4th.
+Dates: 2024-01-15, 01/15/2024, Jan 15 2024.
+Times: 12:30, 14:45:00, 3:30 PM.
+
+URLs: https://example.com, http://test.org, www.google.com.
+File paths: /home/user/file.txt, C:\Program Files\app.exe.
+Emails: user@example.com, test.email+tag@domain.org.
+
+Finally, some repeated words: test test test hello hello hello.
+And the end of file without newline.
